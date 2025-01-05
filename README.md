@@ -140,14 +140,13 @@ Save it in the root directory and update the path in bot2.py
 
 
 ## Screenshots
-   Examples  **Example** Chatbot Interface**
-```markdown
-- Chatbot Interface Example:
-![Chatbot Interface](https://github.com/arunkumar-116/suicide-prevention-bot/raw/main/screenshots/chatbot-interface.png)
 
-- Notification Email Example:
-![Notification Email](https://github.com/arunkumar-116/suicide-prevention-bot/raw/main/screenshots/notification-email.png)
-```
+- **Embedding Creation:**
+  ![Embedding Creation](screenshots/Embedding-creation.png)
+
+- **Notification Email Example:**
+  ![Notification Email](screenshots/notification-email.png)
+
 
 ## Conclusion
 
