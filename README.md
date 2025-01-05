@@ -144,8 +144,26 @@ Save it in the root directory and update the path in bot2.py
 - **Embedding Creation:**
   ![Embedding Creation](screenshots/Embedding-creation.png)
 
-- **Notification Email Example:**
-  ![Notification Email](screenshots/notification-email.png)
+- **Pinecone Database:**
+  ![Pinecone](screenshots/Pinecone.png)
+
+- **Starting-page**
+  ![Starting-page](screenshots/Starting-page.png)
+
+- **Query-1:**
+  ![Query-1](screenshots/Query-1.png)
+
+- **Query-2:**
+  ![Query-2](screenshots/Query-2.png)
+
+- **Query-3:**
+  ![Query-3](screenshots/Query-3.png)
+
+- **record-voice**
+  ![record-voice](screenshots/record-voice.png)
+
+- **Transcript**
+  ![Transcript](screenshots/Transcript.png)
 
 
 ## Conclusion
